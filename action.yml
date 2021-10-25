@@ -1,5 +1,5 @@
-name: Enforce Pull Request Title includes Jira Issue Key
-description: Check that a PR title starts with a Jira Issue Key
+name: Enforces Pull Request Title to include Jira Issue Key
+description: Checks if a PR title starts with a Jira Issue Key
 inputs:
   projectKey:
     description: 'A specific Jira Project Key that must be included.'
